@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there👋 I'm Karen Wanjiru 
 
-<!--
-**lone-wolffie/lone-wolffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a **Full-Stack Developer** passionate about building efficient, user-friendly applications, and I'm currently diving deeper into **Software Engineering** principles and exploring the world of **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Experienced in **Full-Stack Development** (Frontend + Backend)  
+- 🌱 Currently learning **Software Engineering best practices** and **AI fundamentals**  
+- 🎯 Goal: Build scalable solutions that combine **web technologies** with **intelligent systems**  
+- 📫 Reach me at: karenwanjiru09@gmail.com  
+
+---
+
+## 🛠 Skills
+- **Frontend:** HTML5, CSS3, JavaScript, React  
+- **Backend:** Node.js with Express.js  
+- **Databases:** MySQL  
+- **AI (Beginner):** Python (NumPy, Pandas), Introduction to Machine Learning  
+- **Tools & Others:** Git/GitHub, REST APIs, VS Code  
+
+---
+
+## 📂 Projects
+- Feel free to check my GitHub to see my projects
+
+---
+
+
