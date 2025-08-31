@@ -13,8 +13,8 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
 
 ---
 
-## 🛠 Skills
-- **Frontend:** HTML5, CSS3, JavaScript, React  
+![Skills](html5.png)
+  
 - **Backend:** Node.js with Express.js  
 - **Databases:** MySQL  
 - **AI (Beginner):** Python (NumPy, Pandas), Introduction to Machine Learning  
