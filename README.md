@@ -12,11 +12,20 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
 - 📫 Reach me at: karenwanjiru09@gmail.com  
 
 ---
+## Skills
+### **Frontend**
+<img src="html5.png" alt="My Tech Stack" style="width:40px; border-radius:50px;"> <br>
+<img src="css3.png" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+<img src="js.png" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+<img src="react.png" alt="My Tech Stack" style="width:40px; border-radius:50px;">
 
-![Skills](html5.png)
-  
-- **Backend:** Node.js with Express.js  
-- **Databases:** MySQL  
+**Backend** 
+<img src="nodejs.png" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+<img src="expressjs.png" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+
+**Databases:**
+<img src="mysql.png" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+
 - **AI (Beginner):** Python (NumPy, Pandas), Introduction to Machine Learning  
 - **Tools & Others:** Git/GitHub, REST APIs, VS Code  
 
