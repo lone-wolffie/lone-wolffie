@@ -45,7 +45,7 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lone-wolffie&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lone-wolffie&theme=radical)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lone-wolffie&show_icons=true&theme=radical)
 
