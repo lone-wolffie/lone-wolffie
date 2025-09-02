@@ -14,14 +14,18 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
 ---
 ## Skills
 ### **Frontend**
-<img src="images/html5.svg" alt="My Tech Stack" style="width:50px; margin-right:10px;">
-<img src="images/css3.svg" alt="My Tech Stack" style="width:50px; margin-right:10px;">
-<img src="images/javascript.svg" alt="My Tech Stack" style="width:45px; border-radius:10px; margin-right:10px;">
-<img src="images/react.svg" alt="My Tech Stack" style="width:50px;">
+<p align="center">
+    <img src="images/html5.svg" alt="My Tech Stack" style="width:50px; margin-right:10px;">
+    <img src="images/css3.svg" alt="My Tech Stack" style="width:50px; margin-right:10px;">
+    <img src="images/javascript.svg" alt="My Tech Stack" style="width:45px; border-radius:10px; margin-right:10px;">
+    <img src="images/react.svg" alt="My Tech Stack" style="width:50px;">
+</p>
 
 ### **Backend** 
-<img src="images/nodejs.svg" alt="My Tech Stack" style="width:40px; margin-right:10px;"> 
-<img src="images/expressjs.svg" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+<p align="center">
+    <img src="images/nodejs.svg" alt="My Tech Stack" style="width:40px; margin-right:10px;"> 
+    <img src="images/expressjs.svg" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+</p>
 
 ### **Databases:**
 <img src="images/mysql.svg" alt="My Tech Stack" style="width:70px; height:70px;">
