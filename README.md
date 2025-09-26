@@ -15,28 +15,37 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
 ## Skills
 ### **Frontend**
 <p align="left">
-    <img src="images/html5.svg" alt="My Tech Stack" style="width:50px; margin-right:30px;">
-    <img src="images/css3.svg" alt="My Tech Stack" style="width:50px; margin-right:30px;">
-    <img src="images/javascript.svg" alt="My Tech Stack" style="width:45px; border-radius:10px; margin-right:30px;">
-    <img src="images/react.svg" alt="My Tech Stack" style="width:50px;">
+    <img src="images/html5.svg" alt="HTML5 Tech Stack" style="width:50px; margin-right:20px;">
+    <img src="images/css3.svg" alt="CSS3 Tech Stack" style="width:50px; margin-right:20px;">
+    <img src="images/javascript.svg" alt="JavaScript Tech Stack" style="width:45px; border-radius:10px; margin-right:20px;">
+    <img src="images/react.svg" alt="React Tech Stack" style="width:50px;">
 </p>
 
 ### **Backend** 
 <p align="left">
-    <img src="images/nodejs.svg" alt="My Tech Stack" style="width:40px; margin-right:30px;"> 
-    <img src="images/expressjs.svg" alt="My Tech Stack" style="width:40px; border-radius:50px;">
+    <img src="images/nodejs.svg" alt="NodeJS Tech Stack" style="width:40px; margin-right:20px;"> 
+    <img src="images/expressjs.svg" alt="ExpressJS Tech Stack" style="width:40px; border-radius:50px;">
 </p>
 
 ### **Databases:**
-<img src="images/mysql.svg" alt="My Tech Stack" style="width:70px; height:70px;">
+<p align="left">
+    <img src="images/mysql.svg" alt="MySQL Tech Stack" style="width:70px; height:70px; margin-right:20px;">
+     <img src="images/postgresql.svg" alt="PostgreSQL Tech Stack" style="width:55px; height:50px;">
+</p>
 
-### **AI (Beginner):**
+### **Artificial Intelligence (Beginner):**
 <img src="images/python.svg" alt="My Tech Stack" style="width:70px; height:70px;">
 <br>
 
-- Introduction to Machine Learning  
+- Introduction to Machine Learning 
 
-**Tools & Others:** 
+### **Mobile development (Beginner)**
+<p align="left">
+    <img src="images/dart.svg" alt="Dart Tech Stack" style="width:70px; height:70px; margin-right:20px;">
+     <img src="images/flutter.svg" alt="Flutter Tech Stack" style="width:70px; height:70px;">
+</p>
+
+### **Tools & Others:** 
 - Git/GitHub 
 - REST APIs 
 - VS Code  
