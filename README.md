@@ -1,15 +1,15 @@
 # Hi there👋 I'm Karen Wanjiru 
 
 Welcome to my GitHub profile!  
-I'm a **Full-Stack Developer** passionate about building efficient, user-friendly applications, and I'm currently diving deeper into **Software Engineering** principles and exploring the world of **Artificial Intelligence**.
+I'm a **Software Developer** with a background in **Mathematics & Computer Science**, passionate about building practical, responsive and user-friendly software applications.
 
 ---
 
 ## 🚀 About Me
-- 💻 Experienced in **Full-Stack Development** (Frontend + Backend)  
-- 🌱 Currently learning **Software Engineering best practices** and **AI fundamentals**  
-- 🎯 Goal: Build scalable solutions that combine **web technologies** with **intelligent systems**  
-- 📫 Reach me at: karenwanjiru09@gmail.com  
+- 💻 Software Developer wih experience in **Full-Stack & Web Development**  
+-  🌐 Interested in building **responsive and user-friendly interfaces**
+- 🔧 Experienced with **frontend, backend, APIs, databases, authentication and deployment**
+- 🧠 Interested in combining **software development, problem-solving, and intelligent systems**  
 
 ---
 ## Skills
@@ -33,11 +33,10 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
      <img src="images/postgresql.svg" alt="PostgreSQL Tech Stack" style="width:55px; height:50px;">
 </p>
 
-### **Artificial Intelligence (Beginner):**
+### **Programming Languages:**
 <img src="images/python.svg" alt="My Tech Stack" style="width:70px; height:70px;">
 <br>
 
-- Introduction to Machine Learning 
 
 ### **Mobile development (Beginner)**
 <p align="left">
@@ -46,10 +45,17 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
 </p>
 
 ### **Tools & Others:** 
-- Git/GitHub 
-- REST APIs 
-- VS Code  
-
+- Git/GitHub              
+- REST APIs               
+- VS Code                 
+- JSON                    
+- API Integration         
+- Database Management
+- Postman
+- Render
+- Supabase
+- Authentication
+- Deployment
 ---
 
 ## 📊 GitHub Stats
@@ -60,11 +66,19 @@ I'm a **Full-Stack Developer** passionate about building efficient, user-friendl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lone-wolffie&layout=compact&theme=radical)
 
+
 ---
 
 ## 📂 Projects 
-- Feel free to check my GitHub to see my projects
+- Feel free to explore my repositories and check out the projects I've been building!
 
+---
+
+
+## 🤝 Let's Connect
+- I'm always interested in learning, building projects, collaborating with other developers and exploring new opportunities in software development.
+
+**Email:** karenwanjiru09@gmail.com
 
 
 
